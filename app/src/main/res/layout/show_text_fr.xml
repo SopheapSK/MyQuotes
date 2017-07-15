@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#b9f4f1f1"
+    android:gravity="center_horizontal"
+    android:weightSum="5"
+    android:orientation="vertical">
+
+        <ScrollView
+            android:id="@+id/scrollView"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="4"
+            android:paddingBottom="12dp"
+            android:layout_marginBottom="12dp"
+            >
+
+                <TextView
+
+                    android:id="@+id/fragment_textview_textview"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginTop="15dp"
+                    android:elevation="8dp"
+                    android:padding="5dp"
+                    android:layout_margin="16dp"
+                    android:text="@string/about_us"
+                    android:textAlignment="center"
+                    android:textColor="#333232"
+                    android:textSize="20sp" />
+        </ScrollView>
+
+        <Button
+            android:id="@+id/setting"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:elevation="12dp"
+            android:padding="15dp"
+            android:text="@string/setting" />
+
+        <Button
+            android:id="@+id/mail_to_dev"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:text="@string/dev" />
+
+</LinearLayout>

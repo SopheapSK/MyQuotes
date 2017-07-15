@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_two"
+    android:orientation="vertical">
+       <EditText
+           android:id="@+id/search_word"
+           android:drawableStart="@android:drawable/ic_menu_search"
+           android:textColor="#cccccc"
+           android:hint="@string/search"
+           android:textColorHint="#85d4d4d4"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"/>
+
+       <ListView
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:clickable="true"
+           android:background="#6e6c6565"
+           android:id="@+id/lv"
+           android:elevation="11dp" />
+</LinearLayout>

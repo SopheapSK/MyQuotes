@@ -1,0 +1,29 @@
+<tabs>
+    <tab
+        id="@+id/tab_all"
+        icon="@mipmap/all"
+        barColorWhenSelected="#6067ed"
+        title="មាតិកាសរុប" />
+    <tab
+        id="@+id/tab_love"
+        icon="@mipmap/heart"
+        barColorWhenSelected="#f15862"
+        title="ក្តីស្រលាញ់" />
+
+    <tab
+        id="@+id/tab_idea"
+        icon="@mipmap/idea"
+        barColorWhenSelected="#89715a"
+        title="គំនិត" />
+    <tab
+        id="@+id/tab_inspiration"
+        icon="@mipmap/ins"
+        barColorWhenSelected="#ea9539"
+        title="បង្កើនទឹកចិត្ត" />
+    <tab
+        id="@+id/tab_about"
+        icon="@mipmap/about"
+        barColorWhenSelected="#8ae1c8"
+        title="អំពីកម្មវិធី" />
+
+</tabs>

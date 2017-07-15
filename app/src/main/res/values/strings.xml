@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">KH Quotes</string>
+    <string name="interstitial_ad_unit_id"> ca-app-pub-3982140158032455/9003974522</string>
+    <string name="share_to">ចែករំលែកទៅ</string>
+    <string name="confirm_to_exit">ចាកចេញ</string>
+    <string name="confirm_to_exit_hint">តើអ្នកពិតជាចង់ចាកចេញពីកម្មវិធី?</string>
+    <string name="yes_agree">យល់ព្រម</string>
+    <string name="no_agree">ទេ</string>
+    <string name="search">ស្វែងរក…</string>
+    <string name="dev">ផ្ញើមតិទៅកាន់អ្នកអភិវន្ឍន៏កម្មវិធី</string>
+    <string name="setting">កំណត់/SETTING</string>
+    <string name="about_us">កម្មវិធីKH Quotesនេះបង្កើតឡើងក្នុងគោលបំនងជួយអោយអ្នកទាំងអស់គ្នាអាចអាននិងពិចារណានៅសម្រង់សម្តីនិងពាក្យចាស់ៗពីបុរាណកាលមក
+មិនត្រឹមតែប៉ុណ្ណោះ កម្មវិធីKH Quotes នេះអាចអោយអ្នកទាំងអស់គ្នាចែកចាយទៅកាន់បណ្តាញសង្គមរួមមានFacebook, Twitter, Instagram, Line....
+\n ««ការចែកចាយទៅកាន់បណ្តាញសង្គមមានពីរ ៖»» \n
+»»​ ការកូពីតែអក្សរ  ដើម្បីយកទៅផូសនៅFacebook, Line...ដោយគ្រាន់តែចុចពាក្យ COPY \n
+‍‍»» ការកូពីទាំងអក្សរនិងរូបភាពនៅលើកម្មវិធីនេះ ដោយគ្រាន់តែចុចពាក្យ SHARE \n
+
+និងដើម្បីកំណត់ទំហំអក្សរ ពណ៍អក្សរ និងប្រភេទពុម្ពអក្សរបន្ថែម សូមចុចប៊ុតុងខាងក្រោម
+
+</string>
+
+    <string-array name="item_list">
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+
+    </string-array>
+</resources>
